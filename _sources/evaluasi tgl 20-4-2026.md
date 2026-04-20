@@ -1,6 +1,9 @@
 # Perhitungan Determinan dengan Ekspansi Baris
 
 ## 1.
+$$
+\sum_{k=1}^n (-1)^{i+k} a_{ik} M_{ik}
+$$
 
 $$
 A = \begin{pmatrix}
